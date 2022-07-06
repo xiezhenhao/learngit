@@ -4,4 +4,4 @@ creating a new branch is quick and simplea
 aaaaaa
 
 2
-bug修复完毕
+bug修复完毕!
